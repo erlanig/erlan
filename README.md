@@ -57,12 +57,6 @@ No Activity Tracked This Week
 
 ---
 
-**♨️ &nbsp;DSA Analytics**
-
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
-***
 
 **🛠 &nbsp;Tech Stack**
 
